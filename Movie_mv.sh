@@ -1,8 +1,9 @@
 #!/bin/bash
+cd ~
 
-Download="/Users/Kuroneko_shion/Documents/NNDD/Download/"
+Download="Documents/NNDD/Download/"
 
-System="/Users/Kuroneko_shion/Documents/NNDD/system/"
+System="Documents/NNDD/system/"
 
 NasFile="/Volumes/Movie/Download/"
 
