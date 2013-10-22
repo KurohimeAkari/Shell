@@ -33,7 +33,7 @@ find ${Download} -name '*.flv' -exec rm -f {} \;
 #Minecraft 兎と亀
 find ${NasFile} -name '*兎と亀*' -exec mv -f ${NasFile}*兎と亀*[.mp4] ${NasFile}../minecraft/兎と亀/ \;
 
-#Minecraft 兎と亀
+#Minecraft NoNature
 find ${NasFile} -name '*NoNature*' -exec mv -f ${NasFile}*NoNature*[.mp4] ${NasFile}../minecraft/NoNature/ \;
 
 exit 0
